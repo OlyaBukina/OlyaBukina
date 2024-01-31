@@ -11,5 +11,6 @@ Hello, my name is Olha. I recently finished the Fullstack developer course, wher
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://linkedin.com/in/olha-bukina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olha-bukina" height="30" width="40" /></a>
-<a href="https://instagram.com/olya.bukina91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/
+<a href="https://instagram.com/olya.bukina91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
 
