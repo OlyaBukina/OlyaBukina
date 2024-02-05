@@ -5,7 +5,7 @@ Hello, my name is Olha. I recently finished the Fullstack developer course, wher
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Next.js and WordPress
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Node.js
-- ⚡ &nbsp;Fun fact: I zumba and coding 💻
+- ⚡ &nbsp;Fun fact: I love zumba and coding 💻
 
 
 🔗 &nbsp;**Connect with me**
